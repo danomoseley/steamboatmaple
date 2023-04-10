@@ -1,10 +1,12 @@
 import React from 'react';
+import logo from './logo.png';
 import steamboat_ad from './steamboat_ad.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
+      <img src={logo} className="logo" alt="Steamboat Maple Logo" />
       <div className="coming-soon">
         <h1>Steamboat Maple syrup products will be available for purchase soon!</h1>
         <p>
