@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="App">
       <img src={logo} className="logo" alt="Steamboat Maple Logo" />
+      <hr/>
       <div className="coming-soon">
         <h1>Steamboat Maple syrup products will be available for purchase soon!</h1>
         <p>
