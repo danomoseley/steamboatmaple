@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <a title°Home" href="/"><img src={logo} className="logo" alt="Steamboat Maple Logo" /></a>
+      <a title="Home" href="/"><img src={logo} className="logo" alt="Steamboat Maple Logo" /></a>
       <hr/>
       <div className="coming-soon">
         <h1>Steamboat Maple syrup products will be available for purchase soon!</h1>
